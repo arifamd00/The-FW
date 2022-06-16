@@ -1,0 +1,18 @@
+readme file to understand how framework is working....
+
+1. Properties file:- how to read from a property file and how to create and what is used ....
+2. Object repository:- How is object repository going to be used
+Page Object Model, Page Factory, excel storing the locators, property file, database, keyword driven framework.
+3. Extent Reports.
+4. Jenkins integration with our framework.
+5. Git/GitHub- for code version
+6. JAVA oops concept
+7. Apache POI for excel interaction]
+8. For any database interaction - JDBC driver for respective oracle, mysql dbs
+9. Utilities for common interaction with web elements in an application
+10. TestNg - Annotations, testng.xml, TestNG Listeners
+11. Maven - build tool 
+12. log4j - for logging, - manual logs , and aplication logs
+13. Driver/webdrivermanager
+14. baseClass
+15. Selenium Grid
